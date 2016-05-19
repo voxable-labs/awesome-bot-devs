@@ -22,7 +22,7 @@ Skills: Linux, Python, Flask, SQL, SQLAlchemy, Slack API, Facebook API
 
 ---
 
-[⚓](#eden) **Eden Segal-Grossman** { [github](https://github.com/edensg) | [portfolio](http://edensg.me) | [devolio portfolio](https://devolio.net/eden) | [contact](mailto:eden@edensg.me) }
+[⚓](#eden) **Eden Segal-Grossman** { [github](https://github.com/edensg) | [portfolio](http://edensg.me/work) | [devolio portfolio](https://devolio.net/eden) | [contact](mailto:eden@edensg.me) }
 ```
 Skills: Python, Java, Frontend, Lua, Linux, Design
 ```
