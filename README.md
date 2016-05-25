@@ -29,3 +29,10 @@ Skills: Python, Java, Frontend, Lua, Linux, Design
 > Always learning. Sometimes doing stuff.
 
 ---
+
+
+[⚓](#knoxxs) **Abhishek Gupta** { [github](https://github.com/knoxxs) | [chat](http://m.me/abhiknoxxs) | [email](mailto:abhishek@scupids.com) }  
+```
+Skills: Slack/Facebook/Twiiter API, Wit.ai, API.ai, IBM watson, Machine learning, AI, AIML, Python, Flask, Java, Linux, MongoDB, ElasticSearch
+```
+> Working on bots 24X7
