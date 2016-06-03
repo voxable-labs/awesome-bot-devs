@@ -30,9 +30,18 @@ Skills: Python, Java, Frontend, Lua, Linux, Design
 
 ---
 
-
 [⚓](#knoxxs) **Abhishek Gupta** { [github](https://github.com/knoxxs) | [chat](http://m.me/abhiknoxxs) | [email](mailto:abhishek@scupids.com) }  
 ```
 Skills: Slack/Facebook/Twitter API, Wit.ai, API.ai, IBM watson, Machine learning, AI, AIML, Python, Flask, Java, Linux, MongoDB, ElasticSearch
 ```
 > Working on bots 24X7
+
+---
+
+[⚓](#Voxable) **Voxable** { [github](https://github.com/voxable-labs) | [portfolio](http://voxable.io) | [contact](mailto:howdy@voxable.io) }  
+```
+Skills: JavaScript, Node, Serverless Framework, Ruby, Rails, Api.ai, IMB Watson, Web Speech API 
+```
+> Voxable is an agency that focuses on designing and building voice and conversational interfaces that delight and amaze. Our mission is to help humans and machines better understand one another.
+
+---
