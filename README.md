@@ -42,6 +42,6 @@ Skills: Slack/Facebook/Twitter API, Wit.ai, API.ai, IBM watson, Machine learning
 ```
 Skills: JavaScript, Node, Serverless Framework, Ruby, Rails, Api.ai, IMB Watson, Web Speech API 
 ```
-> Voxable is an agency that focuses on designing and building voice and conversational interfaces that delight and amaze.
+> Voxable is an agency that focuses on designing and building voice and conversational interfaces that delight and amaze. Our mission is to help humans and machines better understand one another.
 
 ---
